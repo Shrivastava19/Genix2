@@ -28,6 +28,8 @@ Design created on [Figma - Assessment GenixAI](https://www.figma.com/design/sr0f
 
 ---
 
+#Genix2 Project Structure
+
 Genix2/
 │
 ├── app.py                     # Main Flask backend application
@@ -43,7 +45,6 @@ Genix2/
 └── static/
     └── css/
         └── style.css          # Styling based on Figma design
-
 
 
 
