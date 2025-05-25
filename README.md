@@ -76,7 +76,7 @@ Open browser at: http://localhost:5000
 
 🌐 Deployment (on Render)
 The app is live at:
-👉 https://genix2.onrender.com
+👉 https://genix2-mayf.onrender.com
 
 To deploy yourself:
 
