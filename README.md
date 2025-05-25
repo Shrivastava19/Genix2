@@ -4,8 +4,6 @@
 
 Genix2 is a simple yet functional login-based web application built using Python Flask, SQL, and HTML/CSS, styled according to a Figma design prototype. The project helps you learn how to integrate frontend designs, backend logic, and database functionality — and deploy the entire system online.
 
-## 🖼️ UI Reference
-Design created on [Figma - Assessment GenixAI](https://www.figma.com/design/sr0f0JlmvoeGo99EXsjNXB/Assesment-GenixAi)
 
 ---
 
@@ -28,23 +26,22 @@ Design created on [Figma - Assessment GenixAI](https://www.figma.com/design/sr0f
 
 ---
 
-#Genix2 Project Structure
-
 Genix2/
 │
-├── app.py                     # Main Flask backend application
-├── database.db                # SQLite database file (auto-created on first run)
-├── requirements.txt           # Python dependencies
-├── README.md                  # Project documentation
+├── app.py
+├── database.db
+├── requirements.txt
+├── README.md
 │
-├── templates/                 # HTML templates for frontend
-│   ├── login.html             # Login page UI
-│   ├── signup.html            # Signup page UI
-│   └── dashboard.html         # Dashboard after login
+├── templates/
+│   ├── login.html
+│   ├── signup.html
+│   └── dashboard.html
 │
 └── static/
     └── css/
-        └── style.css          # Styling based on Figma design
+        └── style.css
+
 
 
 
