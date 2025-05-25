@@ -28,22 +28,22 @@ Design created on [Figma - Assessment GenixAI](https://www.figma.com/design/sr0f
 
 ---
 
-## 📁 Project Structure
+Genix2/
+│
+├── app.py                     # Main Flask backend application
+├── database.db                # SQLite database file (auto-created on first run)
+├── requirements.txt           # Python dependencies
+├── README.md                  # Project documentation
+│
+├── templates/                 # HTML templates for frontend
+│   ├── login.html             # Login page UI
+│   ├── signup.html            # Signup page UI
+│   └── dashboard.html         # Dashboard after login
+│
+└── static/
+    └── css/
+        └── style.css          # Styling based on Figma design
 
-#Genix2/
-│
-├── templates/
-│ ├── login.html
-│ ├── signup.html
-│ └── dashboard.html
-│
-├── static/
-│ └── css/
-│ └── style.css
-│
-├── app.py
-├── database.db
-└── requirements.txt
 
 
 
