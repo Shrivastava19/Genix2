@@ -31,19 +31,19 @@ Design created on [Figma - Assessment GenixAI](https://www.figma.com/design/sr0f
 ## 📁 Project Structure
 
 #Genix2/
-#│
-#├── templates/
-#│ ├── login.html
-#│ ├── signup.html
-#│ └── dashboard.html
-#│
-#├── static/
-#│ └── css/
-#│ └── style.css
-#│
-#├── app.py
-#├── database.db
-#└── requirements.txt
+│
+├── templates/
+│ ├── login.html
+│ ├── signup.html
+│ └── dashboard.html
+│
+├── static/
+│ └── css/
+│ └── style.css
+│
+├── app.py
+├── database.db
+└── requirements.txt
 
 
 
